@@ -2,7 +2,7 @@ rm(list=ls())
 options(encoding = 'UTF-8')
 library(plotly)
 library(shiny)
-#library(shinyBS)
+library(shinyBS)
 #library(ROracle)
 library(shinydashboard)
 
