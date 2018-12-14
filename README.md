@@ -11,13 +11,13 @@
 <img src="/readMeFiles/pic2.PNG" alt="pic2"/>
 
 3. UI (show nav bar)
-![](../master/readMeFiles/pic3.png)
+<img src="/readMeFiles/pic3.PNG" alt="pic3"/>
 
 4. Modify and Save Data
-![](../master/readMeFiles/pic4.png)
+<img src="/readMeFiles/pic4.PNG" alt="pic4"/>
 
 5. Data and Graph Changed
-![](../master/readMeFiles/pic5.png)
+<img src="/readMeFiles/pic5.PNG" alt="pic5"/>
 
 6. Output File
-![](../master/readMeFiles/pic6.png)
+<img src="/readMeFiles/pic6.PNG" alt="pic6"/>
