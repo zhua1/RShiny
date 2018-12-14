@@ -5,10 +5,10 @@
 
 **How it works**
 1. Input file
-![](../master/readMeFiles/pic1.png)
+<img src="/readMeFiles/pic1.png" alt="pic1"/>
 
 2. UI (hide nav bar)
-![](../master/readMeFiles/pic2.png)
+<img src="/master/readMeFiles/pic2.png" alt="pic2"/>
 
 3. UI (show nav bar)
 ![](../master/readMeFiles/pic3.png)
